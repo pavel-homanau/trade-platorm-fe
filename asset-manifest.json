@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trade-platorm-fe/static/css/main.0ded6c29.css",
+    "main.js": "/trade-platorm-fe/static/js/main.33d6c61a.js",
+    "static/js/787.8276514b.chunk.js": "/trade-platorm-fe/static/js/787.8276514b.chunk.js",
+    "index.html": "/trade-platorm-fe/index.html",
+    "main.0ded6c29.css.map": "/trade-platorm-fe/static/css/main.0ded6c29.css.map",
+    "main.33d6c61a.js.map": "/trade-platorm-fe/static/js/main.33d6c61a.js.map",
+    "787.8276514b.chunk.js.map": "/trade-platorm-fe/static/js/787.8276514b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ded6c29.css",
+    "static/js/main.33d6c61a.js"
+  ]
+}
