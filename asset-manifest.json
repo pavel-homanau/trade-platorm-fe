@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trade-platorm-fe/static/css/main.0ded6c29.css",
-    "main.js": "/trade-platorm-fe/static/js/main.c0947ff9.js",
-    "static/js/787.79ccf93f.chunk.js": "/trade-platorm-fe/static/js/787.79ccf93f.chunk.js",
+    "main.js": "/trade-platorm-fe/static/js/main.a5d0f184.js",
+    "static/js/787.a42d595c.chunk.js": "/trade-platorm-fe/static/js/787.a42d595c.chunk.js",
     "index.html": "/trade-platorm-fe/index.html",
     "main.0ded6c29.css.map": "/trade-platorm-fe/static/css/main.0ded6c29.css.map",
-    "main.c0947ff9.js.map": "/trade-platorm-fe/static/js/main.c0947ff9.js.map",
-    "787.79ccf93f.chunk.js.map": "/trade-platorm-fe/static/js/787.79ccf93f.chunk.js.map"
+    "main.a5d0f184.js.map": "/trade-platorm-fe/static/js/main.a5d0f184.js.map",
+    "787.a42d595c.chunk.js.map": "/trade-platorm-fe/static/js/787.a42d595c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ded6c29.css",
-    "static/js/main.c0947ff9.js"
+    "static/js/main.a5d0f184.js"
   ]
 }
