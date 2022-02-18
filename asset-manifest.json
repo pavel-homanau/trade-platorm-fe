@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/diploma/static/css/main.0ded6c29.css",
-    "main.js": "/diploma/static/js/main.7aceef32.js",
-    "static/js/787.8276514b.chunk.js": "/diploma/static/js/787.8276514b.chunk.js",
-    "index.html": "/diploma/index.html",
-    "main.0ded6c29.css.map": "/diploma/static/css/main.0ded6c29.css.map",
-    "main.7aceef32.js.map": "/diploma/static/js/main.7aceef32.js.map",
-    "787.8276514b.chunk.js.map": "/diploma/static/js/787.8276514b.chunk.js.map"
+    "main.css": "/trade-platform-fe/static/css/main.0ded6c29.css",
+    "main.js": "/trade-platform-fe/static/js/main.5da7b60c.js",
+    "static/js/787.b288a944.chunk.js": "/trade-platform-fe/static/js/787.b288a944.chunk.js",
+    "index.html": "/trade-platform-fe/index.html",
+    "main.0ded6c29.css.map": "/trade-platform-fe/static/css/main.0ded6c29.css.map",
+    "main.5da7b60c.js.map": "/trade-platform-fe/static/js/main.5da7b60c.js.map",
+    "787.b288a944.chunk.js.map": "/trade-platform-fe/static/js/787.b288a944.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ded6c29.css",
-    "static/js/main.7aceef32.js"
+    "static/js/main.5da7b60c.js"
   ]
 }
