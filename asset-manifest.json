@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/trade-platform-fe/static/css/main.0ded6c29.css",
-    "main.js": "/trade-platform-fe/static/js/main.5da7b60c.js",
+    "main.js": "/trade-platform-fe/static/js/main.a0d39c1e.js",
     "static/js/787.b288a944.chunk.js": "/trade-platform-fe/static/js/787.b288a944.chunk.js",
     "index.html": "/trade-platform-fe/index.html",
     "main.0ded6c29.css.map": "/trade-platform-fe/static/css/main.0ded6c29.css.map",
-    "main.5da7b60c.js.map": "/trade-platform-fe/static/js/main.5da7b60c.js.map",
+    "main.a0d39c1e.js.map": "/trade-platform-fe/static/js/main.a0d39c1e.js.map",
     "787.b288a944.chunk.js.map": "/trade-platform-fe/static/js/787.b288a944.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0ded6c29.css",
-    "static/js/main.5da7b60c.js"
+    "static/js/main.a0d39c1e.js"
   ]
 }
