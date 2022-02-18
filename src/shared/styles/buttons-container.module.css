@@ -1,0 +1,22 @@
+.buttonBlock {
+    width: 80%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 25%;
+}
+.signIn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.link {
+    text-decoration: none;
+    padding-bottom: 3px;
+}
+
+.link:hover {
+    text-decoration: underline;
+}

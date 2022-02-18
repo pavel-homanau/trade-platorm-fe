@@ -1,0 +1,19 @@
+.footer {
+    grid-area: footer;
+    background-color: #f4511e;
+    display: flex;
+    align-items: center;
+    bottom: 0;
+    width: 100%;
+}
+
+.title {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.title h3{
+    margin-right: 20px;
+    color: #171616;
+}

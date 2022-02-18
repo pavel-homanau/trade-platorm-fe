@@ -1,0 +1,16 @@
+.inputBlock {
+    width: 80%;
+    position: relative;
+}
+
+.inputBlock input {
+    margin-top: 20px;
+}
+
+.error {
+    position: absolute;
+    color: #c71b1b;
+    font-size: 12px;
+    margin-top: -10px;
+    margin-left: 10px;
+}

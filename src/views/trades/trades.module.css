@@ -1,0 +1,14 @@
+.tradesContainer {
+    grid-area: content;
+    padding: 0 20px;
+    box-sizing: border-box;
+    margin: 10px 0 10px 10px;
+    background-color: #faf8f8;
+}
+
+.pageTitle {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

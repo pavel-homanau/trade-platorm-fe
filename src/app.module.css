@@ -1,0 +1,38 @@
+.app {
+  margin: 0 auto;
+  display: grid;
+  height: 100vh;
+
+  grid-template-areas:
+  "header header"
+  "navbar content"
+  "footer footer";
+
+  grid-template-rows: 85px 1fr;
+  grid-template-columns: 1.5fr 10fr;
+}
+
+.app .content {
+  grid-area: content;
+  height: 100%;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/*tbody {*/
+/*  overflow-y: scroll;*/
+/*}*/
+
+td, th {
+  border: 1px solid #171616;
+  text-align: center;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
